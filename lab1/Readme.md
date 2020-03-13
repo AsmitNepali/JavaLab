@@ -1,5 +1,4 @@
-# Types Of Variablefile:///media/asmit/E7DC-8C1D/3rdSem/JavaLab/lab1/Readme.md
-
+# Types Of Variablefile:
  - > Local Variable
  - > Instance Variable
  - > Static Variable
